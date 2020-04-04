@@ -17,7 +17,7 @@ A step-by-step tutorial to create a **WhatsApp Bot using Twilio and Python**.
 
 - [Reference Material](https://github.com/udaypratapyati/corona_chat_bot/blob/master/02.%20Setting%20up%20Webhook%20for%20Incoming%20Messages.ipynb)
 
-- [Code](https://github.com/udaypratapyati/corona_chat_bot/app.py)
+- [Code](https://github.com/udaypratapyati/corona_chat_bot/blob/master/app.py)
 
 - [Video](https://www.youtube.com/watch?v=EeUdel2AJ5g)
 
@@ -27,7 +27,7 @@ A step-by-step tutorial to create a **WhatsApp Bot using Twilio and Python**.
 
 - [Reference Material](https://github.com/udaypratapyati/corona_chat_bot/blob/master/03.%20Deploying%20Flask%20App%20on%20Heroku.ipynb)
 
-- [Code](https://github.com/udaypratapyati/corona_chat_bot/app.py)
+- [Code](https://github.com/udaypratapyati/corona_chat_bot/blob/master/app.py)
 
 - [Video](https://www.youtube.com/watch?v=4ho21Wppf30)
 
